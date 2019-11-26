@@ -1,0 +1,18 @@
+/*
+  Author:
+  Description:
+  
+*/
+
+author = "Jack";
+onLoadName = "Altis - Life";
+loadScreen = "";
+overviewPicture = "";
+overviewText = "Make sure to brush your teeth~!";
+
+class Header
+{
+	gameType = "RPG";	
+	minPlayers = 1;	
+	maxPlayers = 99;	
+};
