@@ -10,7 +10,7 @@ params [
 
 _netObjectPID = getPlayerUID _netObjectPID;
 
-if ([] remotExec ['',2] isEqualTo True) then {
+if ([] remoteExec ['',2] isEqualTo True) then {
 
 } else {
 
