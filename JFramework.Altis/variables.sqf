@@ -7,6 +7,9 @@
 var_hunger = 100;
 var_thirst = 100;
 
+var_survival_cycle = 120;
+
 var_cash = 0;
 var_bankpin = [1,2,3,4]
 var_bank = 2500;
+
